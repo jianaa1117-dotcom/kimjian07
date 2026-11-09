@@ -17,7 +17,7 @@ void main() {
         System.out.printf("%d번 학생 -> %s\n", i, result);
     }
 
-    // while
+    // while..
     int j = 1;
     while (j <= SIZE) {
         System.out.printf("%d번 학생 출석했나요 (Yes/No) ? ", j);
