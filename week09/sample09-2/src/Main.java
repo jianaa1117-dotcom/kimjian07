@@ -11,7 +11,7 @@ void main() {
     System.out.println("***********************");
     System.out.println();
 
-    // 반복문 사용 (반복 부분이 존재).
+    // 반복문 사용 (반복 부분이 존재)..
     for (int i = 0; i < LINE; i++) {
         System.out.println("***********************");
     }

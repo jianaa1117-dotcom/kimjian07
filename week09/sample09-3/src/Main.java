@@ -34,7 +34,7 @@ void main() throws IOException {
                 System.err.printf("ERROR : 시작 값이(%d)는 종료 값(%d) 보다 작거나 닽아야 함", first, last);
                 System.in.read();
             }
-        }  // Break 위치.
+        }  // Break 위치..
 
         for (int j = first; j <= last; j++) {
             total += j;
