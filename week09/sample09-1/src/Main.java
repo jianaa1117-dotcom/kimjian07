@@ -6,7 +6,7 @@ void main() {
     char answer;
     String result;
 
-    // for 문 사용
+    // for 문 사용.
     for (int i = 1; i <= SIZE; i++) {  // 제어변수
         System.out.printf("%d번 학생 출석했나요 (Yes/No) ? ", i);
         answer = keyboard.nextLine().charAt(0);
