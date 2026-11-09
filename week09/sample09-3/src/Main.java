@@ -7,7 +7,7 @@ void main() throws IOException {
     String result;
     char answer;
 
-//***********************************************************
+//***********************************************************..
     for (int i = START; i <= END; i++) {
         total += i;
     }

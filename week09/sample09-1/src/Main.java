@@ -1,5 +1,3 @@
-//TIP 코드를 <b>실행</b>하려면 <shortcut actionId="Run"/>을(를) 누르거나
-// 에디터 여백에 있는 <icon src="AllIcons.Actions.Execute"/> 아이콘을 클릭하세요.
 void main() {
     final int SIZE = 5;
     Scanner keyboard = new Scanner(System.in);
@@ -19,7 +17,7 @@ void main() {
         System.out.printf("%d번 학생 -> %s\n", i, result);
     }
 
-    // while
+    // while..
     int j = 1;
     while (j <= SIZE) {
         System.out.printf("%d번 학생 출석했나요 (Yes/No) ? ", j);
